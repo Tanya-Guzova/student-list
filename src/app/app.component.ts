@@ -38,7 +38,7 @@ export class AppComponent {
     ){
 this.usersvc.list();
     }
-
+                   
     ngOnInit():void{
 
 }
